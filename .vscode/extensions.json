@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ritwickdey.LiveServer",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag"
+  ]
+}

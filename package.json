@@ -1,0 +1,11 @@
+{
+  "name": "sida2",
+  "version": "1.0.0",
+  "description": "Sida2 – responsive test site",
+  "scripts": {
+    "start": "npx --yes live-server --port=5500 --open=index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
